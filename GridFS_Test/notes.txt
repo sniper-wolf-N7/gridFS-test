@@ -1,0 +1,4 @@
+
+- Using multer for interfacing with MongoDB
+
+- Using mLab for devTest database and URI
